@@ -1,6 +1,6 @@
 # Tier2Pool
 
-### **Many hands make light work beyond doubt.**
+<samp>Many hands make light work beyond doubt.</samp>
 
 <div>
   <img alt="BTC" align="left" height="32px" src="https://raw.githubusercontent.com/tier2pool/.github/main/profile/images/bitcoin-btc-logo.svg"/>
